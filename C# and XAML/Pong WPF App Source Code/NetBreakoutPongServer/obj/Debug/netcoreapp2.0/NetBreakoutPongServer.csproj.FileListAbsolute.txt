@@ -1,0 +1,22 @@
+C:\Users\Alex\Source\Repos\NetBreakoutPong2\NetBreakoutPongServer\bin\Debug\netcoreapp2.0\NetBreakoutPongServer.deps.json
+C:\Users\Alex\Source\Repos\NetBreakoutPong2\NetBreakoutPongServer\bin\Debug\netcoreapp2.0\NetBreakoutPongServer.runtimeconfig.json
+C:\Users\Alex\Source\Repos\NetBreakoutPong2\NetBreakoutPongServer\bin\Debug\netcoreapp2.0\NetBreakoutPongServer.runtimeconfig.dev.json
+C:\Users\Alex\Source\Repos\NetBreakoutPong2\NetBreakoutPongServer\bin\Debug\netcoreapp2.0\NetBreakoutPongServer.dll
+C:\Users\Alex\Source\Repos\NetBreakoutPong2\NetBreakoutPongServer\bin\Debug\netcoreapp2.0\NetBreakoutPongServer.pdb
+C:\Users\Alex\Source\Repos\NetBreakoutPong2\NetBreakoutPongServer\obj\Debug\netcoreapp2.0\NetBreakoutPongServer.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Source\Repos\NetBreakoutPong2\NetBreakoutPongServer\obj\Debug\netcoreapp2.0\NetBreakoutPongServer.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Source\Repos\NetBreakoutPong2\NetBreakoutPongServer\obj\Debug\netcoreapp2.0\NetBreakoutPongServer.AssemblyInfoInputs.cache
+C:\Users\Alex\Source\Repos\NetBreakoutPong2\NetBreakoutPongServer\obj\Debug\netcoreapp2.0\NetBreakoutPongServer.AssemblyInfo.cs
+C:\Users\Alex\Source\Repos\NetBreakoutPong2\NetBreakoutPongServer\obj\Debug\netcoreapp2.0\NetBreakoutPongServer.dll
+C:\Users\Alex\Source\Repos\NetBreakoutPong2\NetBreakoutPongServer\obj\Debug\netcoreapp2.0\NetBreakoutPongServer.pdb
+C:\Users\Alex\Desktop\Portfolio\C# and XAML\Pong WPF App Source Code\NetBreakoutPongServer\bin\Debug\netcoreapp2.0\NetBreakoutPongServer.deps.json
+C:\Users\Alex\Desktop\Portfolio\C# and XAML\Pong WPF App Source Code\NetBreakoutPongServer\bin\Debug\netcoreapp2.0\NetBreakoutPongServer.runtimeconfig.json
+C:\Users\Alex\Desktop\Portfolio\C# and XAML\Pong WPF App Source Code\NetBreakoutPongServer\bin\Debug\netcoreapp2.0\NetBreakoutPongServer.runtimeconfig.dev.json
+C:\Users\Alex\Desktop\Portfolio\C# and XAML\Pong WPF App Source Code\NetBreakoutPongServer\bin\Debug\netcoreapp2.0\NetBreakoutPongServer.dll
+C:\Users\Alex\Desktop\Portfolio\C# and XAML\Pong WPF App Source Code\NetBreakoutPongServer\bin\Debug\netcoreapp2.0\NetBreakoutPongServer.pdb
+C:\Users\Alex\Desktop\Portfolio\C# and XAML\Pong WPF App Source Code\NetBreakoutPongServer\obj\Debug\netcoreapp2.0\NetBreakoutPongServer.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\Portfolio\C# and XAML\Pong WPF App Source Code\NetBreakoutPongServer\obj\Debug\netcoreapp2.0\NetBreakoutPongServer.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Portfolio\C# and XAML\Pong WPF App Source Code\NetBreakoutPongServer\obj\Debug\netcoreapp2.0\NetBreakoutPongServer.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Portfolio\C# and XAML\Pong WPF App Source Code\NetBreakoutPongServer\obj\Debug\netcoreapp2.0\NetBreakoutPongServer.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Portfolio\C# and XAML\Pong WPF App Source Code\NetBreakoutPongServer\obj\Debug\netcoreapp2.0\NetBreakoutPongServer.dll
+C:\Users\Alex\Desktop\Portfolio\C# and XAML\Pong WPF App Source Code\NetBreakoutPongServer\obj\Debug\netcoreapp2.0\NetBreakoutPongServer.pdb

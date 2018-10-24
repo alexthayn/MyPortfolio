@@ -1,0 +1,44 @@
+C:\Users\Alex\Source\Repos\NetBreakoutPong2\NetBreakoutPongClient\obj\Debug\NetBreakoutPongClient.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Source\Repos\NetBreakoutPong2\NetBreakoutPongClient\obj\Debug\MainWindow.g.cs
+C:\Users\Alex\Source\Repos\NetBreakoutPong2\NetBreakoutPongClient\obj\Debug\App.g.cs
+C:\Users\Alex\Source\Repos\NetBreakoutPong2\NetBreakoutPongClient\obj\Debug\NetBreakoutPongClient_MarkupCompile.cache
+C:\Users\Alex\Source\Repos\NetBreakoutPong2\NetBreakoutPongClient\obj\Debug\NetBreakoutPongClient_MarkupCompile.lref
+C:\Users\Alex\Source\Repos\NetBreakoutPong2\NetBreakoutPongClient\bin\Debug\NetBreakoutPongClient.exe.config
+C:\Users\Alex\Source\Repos\NetBreakoutPong2\NetBreakoutPongClient\bin\Debug\NetBreakoutPongClient.exe.manifest
+C:\Users\Alex\Source\Repos\NetBreakoutPong2\NetBreakoutPongClient\bin\Debug\NetBreakoutPongClient.application
+C:\Users\Alex\Source\Repos\NetBreakoutPong2\NetBreakoutPongClient\bin\Debug\NetBreakoutPongClient.exe
+C:\Users\Alex\Source\Repos\NetBreakoutPong2\NetBreakoutPongClient\bin\Debug\NetBreakoutPongClient.pdb
+C:\Users\Alex\Source\Repos\NetBreakoutPong2\NetBreakoutPongClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alex\Source\Repos\NetBreakoutPong2\NetBreakoutPongClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alex\Source\Repos\NetBreakoutPong2\NetBreakoutPongClient\obj\Debug\MainWindow.baml
+C:\Users\Alex\Source\Repos\NetBreakoutPong2\NetBreakoutPongClient\obj\Debug\NetBreakoutPongClient.g.resources
+C:\Users\Alex\Source\Repos\NetBreakoutPong2\NetBreakoutPongClient\obj\Debug\NetBreakoutPongClient.Properties.Resources.resources
+C:\Users\Alex\Source\Repos\NetBreakoutPong2\NetBreakoutPongClient\obj\Debug\NetBreakoutPongClient.csproj.GenerateResource.cache
+C:\Users\Alex\Source\Repos\NetBreakoutPong2\NetBreakoutPongClient\obj\Debug\NetBreakoutPongClient.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Source\Repos\NetBreakoutPong2\NetBreakoutPongClient\obj\Debug\NetBreakoutPongClient.exe.manifest
+C:\Users\Alex\Source\Repos\NetBreakoutPong2\NetBreakoutPongClient\obj\Debug\NetBreakoutPongClient.application
+C:\Users\Alex\Source\Repos\NetBreakoutPong2\NetBreakoutPongClient\obj\Debug\NetBreakoutPongClient.csproj.CopyComplete
+C:\Users\Alex\Source\Repos\NetBreakoutPong2\NetBreakoutPongClient\obj\Debug\NetBreakoutPongClient.exe
+C:\Users\Alex\Source\Repos\NetBreakoutPong2\NetBreakoutPongClient\obj\Debug\NetBreakoutPongClient.pdb
+C:\Users\Alex\Desktop\Portfolio\C# and XAML\Pong WPF App Source Code\NetBreakoutPongClient\bin\Debug\NetBreakoutPongClient.exe.config
+C:\Users\Alex\Desktop\Portfolio\C# and XAML\Pong WPF App Source Code\NetBreakoutPongClient\bin\Debug\NetBreakoutPongClient.exe.manifest
+C:\Users\Alex\Desktop\Portfolio\C# and XAML\Pong WPF App Source Code\NetBreakoutPongClient\bin\Debug\NetBreakoutPongClient.application
+C:\Users\Alex\Desktop\Portfolio\C# and XAML\Pong WPF App Source Code\NetBreakoutPongClient\bin\Debug\NetBreakoutPongClient.exe
+C:\Users\Alex\Desktop\Portfolio\C# and XAML\Pong WPF App Source Code\NetBreakoutPongClient\bin\Debug\NetBreakoutPongClient.pdb
+C:\Users\Alex\Desktop\Portfolio\C# and XAML\Pong WPF App Source Code\NetBreakoutPongClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alex\Desktop\Portfolio\C# and XAML\Pong WPF App Source Code\NetBreakoutPongClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alex\Desktop\Portfolio\C# and XAML\Pong WPF App Source Code\NetBreakoutPongClient\obj\Debug\NetBreakoutPongClient.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\Portfolio\C# and XAML\Pong WPF App Source Code\NetBreakoutPongClient\obj\Debug\MainWindow.g.cs
+C:\Users\Alex\Desktop\Portfolio\C# and XAML\Pong WPF App Source Code\NetBreakoutPongClient\obj\Debug\App.g.cs
+C:\Users\Alex\Desktop\Portfolio\C# and XAML\Pong WPF App Source Code\NetBreakoutPongClient\obj\Debug\NetBreakoutPongClient_MarkupCompile.cache
+C:\Users\Alex\Desktop\Portfolio\C# and XAML\Pong WPF App Source Code\NetBreakoutPongClient\obj\Debug\NetBreakoutPongClient_MarkupCompile.lref
+C:\Users\Alex\Desktop\Portfolio\C# and XAML\Pong WPF App Source Code\NetBreakoutPongClient\obj\Debug\MainWindow.baml
+C:\Users\Alex\Desktop\Portfolio\C# and XAML\Pong WPF App Source Code\NetBreakoutPongClient\obj\Debug\NetBreakoutPongClient.g.resources
+C:\Users\Alex\Desktop\Portfolio\C# and XAML\Pong WPF App Source Code\NetBreakoutPongClient\obj\Debug\NetBreakoutPongClient.Properties.Resources.resources
+C:\Users\Alex\Desktop\Portfolio\C# and XAML\Pong WPF App Source Code\NetBreakoutPongClient\obj\Debug\NetBreakoutPongClient.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\Portfolio\C# and XAML\Pong WPF App Source Code\NetBreakoutPongClient\obj\Debug\NetBreakoutPongClient.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Portfolio\C# and XAML\Pong WPF App Source Code\NetBreakoutPongClient\obj\Debug\NetBreakoutPongClient.exe.manifest
+C:\Users\Alex\Desktop\Portfolio\C# and XAML\Pong WPF App Source Code\NetBreakoutPongClient\obj\Debug\NetBreakoutPongClient.application
+C:\Users\Alex\Desktop\Portfolio\C# and XAML\Pong WPF App Source Code\NetBreakoutPongClient\obj\Debug\NetBreakoutPongClient.csproj.CopyComplete
+C:\Users\Alex\Desktop\Portfolio\C# and XAML\Pong WPF App Source Code\NetBreakoutPongClient\obj\Debug\NetBreakoutPongClient.exe
+C:\Users\Alex\Desktop\Portfolio\C# and XAML\Pong WPF App Source Code\NetBreakoutPongClient\obj\Debug\NetBreakoutPongClient.pdb

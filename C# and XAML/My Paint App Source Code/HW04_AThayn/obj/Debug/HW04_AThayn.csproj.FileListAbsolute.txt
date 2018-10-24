@@ -1,0 +1,14 @@
+C:\Users\Alex\source\repos\HW04_AThayn\HW04_AThayn\bin\Debug\HW04_AThayn.exe.config
+C:\Users\Alex\source\repos\HW04_AThayn\HW04_AThayn\bin\Debug\HW04_AThayn.exe
+C:\Users\Alex\source\repos\HW04_AThayn\HW04_AThayn\bin\Debug\HW04_AThayn.pdb
+C:\Users\Alex\source\repos\HW04_AThayn\HW04_AThayn\obj\Debug\MainWindow.g.cs
+C:\Users\Alex\source\repos\HW04_AThayn\HW04_AThayn\obj\Debug\App.g.cs
+C:\Users\Alex\source\repos\HW04_AThayn\HW04_AThayn\obj\Debug\HW04_AThayn_MarkupCompile.cache
+C:\Users\Alex\source\repos\HW04_AThayn\HW04_AThayn\obj\Debug\HW04_AThayn_MarkupCompile.lref
+C:\Users\Alex\source\repos\HW04_AThayn\HW04_AThayn\obj\Debug\MainWindow.baml
+C:\Users\Alex\source\repos\HW04_AThayn\HW04_AThayn\obj\Debug\HW04_AThayn.g.resources
+C:\Users\Alex\source\repos\HW04_AThayn\HW04_AThayn\obj\Debug\HW04_AThayn.Properties.Resources.resources
+C:\Users\Alex\source\repos\HW04_AThayn\HW04_AThayn\obj\Debug\HW04_AThayn.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\HW04_AThayn\HW04_AThayn\obj\Debug\HW04_AThayn.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\HW04_AThayn\HW04_AThayn\obj\Debug\HW04_AThayn.exe
+C:\Users\Alex\source\repos\HW04_AThayn\HW04_AThayn\obj\Debug\HW04_AThayn.pdb
