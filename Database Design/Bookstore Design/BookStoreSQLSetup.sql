@@ -1,5 +1,6 @@
 #######Creation of Bookstore DB#######
 CREATE DATABASE Bookstore;
+USE Bookstore;
 
 #######Customer Table#######
 CREATE TABLE Customer (
@@ -111,9 +112,3 @@ CREATE TABLE Address(
     Country NVARCHAR(50),
     PRIMARY KEY (ID)
 );
-
-
-
-    
-    
-    
