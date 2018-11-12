@@ -22,7 +22,6 @@ public class WashingMachineMonitorTestDriver {
 			try {
            		WashingMachineRemote machine = (WashingMachineRemote) Naming.lookup(location[i]);
            		monitor[i] = new WashingMachineMonitor(machine);
-				//System.out.println(monitor[i]);
         	} catch (Exception e) {
             	e.printStackTrace();
         	}
