@@ -59,6 +59,7 @@ CREATE TABLE CustomerOrder (
 #######Book Table#######
 CREATE TABLE Book (
 	ID INT NOT NULL AUTO_INCREMENT,
+    CustomerOrderId INT NOT NULL,
     ISBN VARCHAR(13) NOT NULL,
     Title NVARCHAR(255) NOT NULL,
     Author NVARCHAR(255),
@@ -69,17 +70,9 @@ CREATE TABLE Book (
     QuantityInStock INT NOT NULL,
     Dimensions_Width DOUBLE,
     Dimensions_Height DOUBLE,
-    Dimensions_Lenght DOUBLE,
+    Dimensions_Length DOUBLE,
     Weight DOUBLE,
     PRIMARY KEY (ID)
-);
-
-#######Order Item Table#######
-CREATE TABLE OrderItem (
-	BookId INT NOT NULL,
-    CustomerOrderId INT NOT NULL,
-    Quantity INT NOT NULL,
-    FOREIGN KEY (BookId) REFERENCES Book(ID),
     FOREIGN KEY (CustomerOrderId) REFERENCES CustomerOrder(ID)
 );
 
